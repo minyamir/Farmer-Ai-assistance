@@ -26,9 +26,7 @@ This project is built 100% on **Free & Open-Tier** cloud services, making it per
 * **AI Core Pipeline (Serverless Cloud):**
   * **Speech-to-Text (Ears):** OpenAI Whisper via Hugging Face Inference API
   * **Vision & Reasoning (Brain):** Gemini 1.5 Flash via Google AI Studio
-  * **Text-to-Speech (Mouth):** Meta Massively Multilingual Speech (MMS) via Hugging Face Inference API
-
----
+  * **Text-to-Speech (Mouth):** Meta Massively Multilingual Speech (MMS) via Hugging Face Inference A
 
 ## 📁 Project Structure
 
