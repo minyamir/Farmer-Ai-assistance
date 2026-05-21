@@ -24,9 +24,9 @@ This project is built 100% on **Free & Open-Tier** cloud services, making it per
 * **Backend:** Node.js, Express.js, Multer (Handles simultaneous binary audio and image streams)
 * **Database:** MongoDB Atlas (Saves multi-language chat records)
 * **AI Core Pipeline (Serverless Cloud):**
-  * **Speech-to-Text (Ears):** OpenAI Whisper via Hugging Face Inference API
-  * **Vision & Reasoning (Brain):** Gemini 1.5 Flash via Google AI Studio
-  * **Text-to-Speech (Mouth):** Meta Massively Multilingual Speech (MMS) via Hugging Face Inference A
+  * **Speech-to-Text (Ears):** OpenAI Whisper via Hugging Face Inference API.
+  * **Vision & Reasoning (Brain):** Gemini 1.5 Flash via Google AI Studio.
+  * **Text-to-Speech (Mouth):** Meta Massively Multilingual Speech (MMS) via Hugging Face Inference
 
 ## 📁 Project Structure
 
