@@ -2,7 +2,7 @@
 
 Farmer AI Assistance is an intelligent, voice-first agricultural support platform designed to empower local farmers, bridge the digital divide, and promote sustainable agriculture in Ethiopia. 
 
-By leveraging the **MERN Stack** and cutting-edge **Multimodal Cloud AI**, the platform offers instant, interactive support in **Amharic (አማርኛ)**, **Afan Oromo (Afaan Oromoo)**, and **English**, tailored specifically for low-literacy environments.
+### By leveraging the **MERN Stack** and cutting-edge **Multimodal Cloud AI**, the platform offers instant, interactive support in **Amharic (አማርኛ)**, **Afan Oromo (Afaan Oromoo)**, and **English**, tailored specifically for low-literacy environments.
 
 ---
 
